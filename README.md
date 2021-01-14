@@ -1,3 +1,11 @@
+# Uses weather-icons-react 
+https://najens.github.io/weather-icons-react/
+
+## ECS6 Documentation Links
+
+https://sodocumentation.net/es/node-js/topic/6732/ecmascript-2015--es6--con-node-js
+https://sodocumentation.net/es/topic?q=es6
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
