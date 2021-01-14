@@ -1,3 +1,6 @@
+# Uses weather-icons-react 
+https://najens.github.io/weather-icons-react/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
