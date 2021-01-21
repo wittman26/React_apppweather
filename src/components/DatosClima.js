@@ -1,7 +1,7 @@
 import React from 'react';
 import Temperatura from './Temperatura';
 import ExtraInfo from './ExtraInfo';
-import {CLOUD, SUNNY} from './../contants/climas'
+import {CLOUD, SUNNY} from '../constants/climas'
 
 const Clima = () => (<div>
         <Temperatura temperatura={-6} estadoClima={SUNNY}/>

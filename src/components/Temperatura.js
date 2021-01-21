@@ -1,7 +1,7 @@
 import React from 'react';
 import { WiCloudy, WiDayCloudyHigh, WiDaySunny } from "weather-icons-react";
 import PropTypes from 'prop-types';
-import {CLOUD, SUNNY} from './../contants/climas'
+import {CLOUD, SUNNY} from '../constants/climas'
 
 /* Cuando solo recibe un parámetro, se pueden omitir los parentesis*/
 const getIconoClima = estadoClima => {
